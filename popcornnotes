@@ -1,0 +1,82 @@
+- Primera slide
+
+Hola, soy David Bengoa y vengo a hablaros de Popcorn js
+
+- Siguiente slide "Video en la web"
+
+El vídeo a formado parte de la web durante mucho tiempo
+
+- Siguiente slide "The ugly"
+
+En sus primeros años teníamos RealPlayer, QuckTime y Windows Media Player, con los que algunos aseguran que se podía ver vídeos, pero el resto de los mortales como teníamos una conexión dial-up de 56k, nos comíamos los mocos.
+
+-Siguiente slide "The bad"
+
+Los años pasaron, y eventualmente llego flash, y con el llegaron los crashes, los sobrecalentamientos y las desesperaciones
+
+-Siguiente slide "The good"
+
+Eventualmente, los smartphones empezaron a ser populares, y nos dimos cuenta de que
+flash era demasiado ineficiente para funcionar en ellos. WHATWG se puso a trabajar
+en una especificación que haría que el vídeo sea un ciudadano de primera clase en
+la web. Hoy en día esta especificación es usada extensamente.
+
+-Siguiente slide (Vídeo de Youtube)
+
+Esta es una captura de pantalla de un vídeo en HTML5 de Youtube, como veis la
+interfaz es completamente personalizarle, sin embargo, este vídeo no se comporta
+como el resto de la web. Si intento seleccionar este texto de aquí, me sera imposible
+por que el texto es parte del vídeo. Ademas, a diferencia de la web, este vídeo es
+estático, da igual que lo vea ahora o dentro de dos años, el vídeo va a ser exactamente
+el mismo. Esto es lo que quiere solucionar popcorn.js.
+
+-Siguiente slide "DEMO"
+
+Os voy a enseñar un demo de lo que popcorn.js es capaz de hacer
+
+-Siguiente slide
+
+[Dejar pasar el demo una vez]
+
+Como veis, con popcorn.js se puede cambiar otras partes de la pagina para mostrar información
+relevante a lo que se esta viendo ahora en el vídeo, como información de los protagonistas
+o cosas que aparecen.
+
+Ademas, esta información se comporta como el resto de la web, esta actualizada, puedo
+seleccionarla y hacer clic en los enlaces para obtener mas información.
+
+[Rebobinar el vídeo un poco, seleccionar algún texto y hacer clic en algunos enlaces como ejemplo]
+
+-Siguente slide "<code/>"
+
+Os voy a enseñar como implementar popcorn.js en vuestra pagina.
+
+-Siguiente slide
+
+Primero incluimos el vídeo y la librería de popcorn.js en la pagina
+
+-Siguiente slide
+
+Después, usando un API simple muy similar al de jQuery, añadimos la información que queremos mostrar en cada momento.
+
+Por ejemplo, aquí muestro una imagen, un mapa, una búsqueda en Twitter y un articulo de la Wikipedia.
+
+-Siguiente slide (Perro)
+
+Por su puesto, para los que no sepáis programar, esto os sonara a chino. Vosotros también podéis usar popcorn.
+
+-Siguiente slide
+
+PopcornMaker te permite usar popcorn.js sin escribir una linea de código, usando una interfaz amigable con la que los que halláis editado vídeo alguna vez ya seréis familiares.
+
+-Ultima slide
+
+Esto ha sido todo por hoy, ¿Alguna pregunta?
+
+
+
+
+
+
+
+
